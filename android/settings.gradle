@@ -1,0 +1,3 @@
+rootProject.name = 'avasfit_3967'
+
+include ':app'
